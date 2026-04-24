@@ -1,9 +1,9 @@
 ext {
-    moduleLibraryName = "il2cppdumper"
-    magiskModuleId = "zygisk_il2cppdumper"
-    moduleName = "Il2CppDumper"
-    moduleAuthor = "Perfare"
-    moduleDescription = "Il2CppDumper Zygisk version."
-    moduleVersion = "v1.2.0"
-    moduleVersionCode = 1
+    moduleLibraryName = "arvian_dumper"
+    magiskModuleId = "zygisk_arvian_dumper"
+    moduleName = "Arvian MLBB Dumper"
+    moduleAuthor = "t.me/divarvian"
+    moduleDescription = "Mobile Legends: Bang Bang Dumper by Arvian."
+    moduleVersion = "v0.1.1"
+    moduleVersionCode = 011
 }

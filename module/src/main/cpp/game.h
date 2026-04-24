@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.game.packagename"
+#define GamePackageName "com.mobile.legends:UnityKillsMe"
 
-#endif //ZYGISK_IL2CPPDUMPER_GAME_H
+#endif // ZYGISK_IL2CPPDUMPER_GAME_H
